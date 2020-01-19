@@ -3,9 +3,9 @@ library mantras;
 import 'dart:math';
 
 class Mantras {
-  static Random _random = Random();
+  Random _random = Random();
 
-  static List<String> _mantras = [
+  List<String> _mantras = [
     "Be vulnerable, be courageous, and find comfort in the uncomfortable.",
     "Prepare like you have never won and perform like you have never lost.",
     "Trust the process.",
@@ -23,7 +23,7 @@ class Mantras {
     "A flourishing career starts with persistence."
   ];
 
-  static String getMantra() {
+  String getMantra() {
     return _mantras[_random.nextInt(_mantras.length)];
   }
 
