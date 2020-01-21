@@ -4,9 +4,7 @@ A Flutter plugin that serves as a database for your daily inspirational quotes a
 
 ## Features
 
-- Simplified image and media file download
-- Supports PNG, JPG, JPEG, GIF, MP3 and more
-- Implements native permission (Android) and authorization requests (iOS)
+- Meaningful and insightful database of mantras!
 
 ## Installation
 
