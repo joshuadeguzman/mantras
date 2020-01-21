@@ -1,6 +1,6 @@
 name: mantras
 description: A Flutter plugin that serves as a database for your daily inspirational quotes and mantras.
-version: 0.0.1
+version: 0.0.2
 authors:
   - Joshua de Guzman <contact@jdg.ph>
 homepage: https://github.com/joshuadeguzman/mantras
