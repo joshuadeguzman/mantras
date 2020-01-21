@@ -20,7 +20,17 @@ class Mantras {
     "Work as if someone is trying to take it away from you.",
     "Don't major in minor things.",
     "Go & do.",
-    "A flourishing career starts with persistence."
+    "A flourishing career starts with persistence.",
+    "Under promise, over deliver.",
+    "I can and I will.",
+    "It doesn't hurt when it's over.",
+    "You are here on purpose.",
+    "Don't worry about failures, worry about the chances you miss when you don't even try.",
+    "Happiness is a choice.",
+    "Progress is a process.",
+    "Onward and upward.",
+    "Claim your values; pick your priorities.",
+    "No one is going to do it like me."
   ];
 
   String getMantra() {
